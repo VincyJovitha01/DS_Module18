@@ -1,18 +1,4 @@
 # Ex27 Kruskal’s Algorithm
-## DATE:
-## AIM:
-To write a C program to implement Kruskal's Algorithm for finding minimum cost
-
-## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
-## Program:
-```
-/*# Ex27 Kruskal’s Algorithm
 ## DATE:25/4/25
 ## AIM:
 To write a C program to implement Kruskal's Algorithm for finding minimum cost
@@ -115,19 +101,6 @@ RegisterNumber: 212223230242
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/12b2ed8b-bc94-495d-b5d3-22eabb5c0e1f)
-
-
-
-## Result:
-Thus, the C program to implement Kruskal's Algorithm for finding minimum cost is implemented successfully.
-
-Program to implement Kruskal's Algorithm
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
 
 
 
